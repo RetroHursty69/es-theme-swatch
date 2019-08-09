@@ -1,6 +1,6 @@
 <!--
-theme name:     Floyd
-creator:		Dwayne Hurst (aka Hursty) - Not a loaded image maker wanna-be
+theme name:     Swatch
+creator:		Dwayne Hurst (aka Hursty)
 version         1.0
 -->
 
@@ -18,16 +18,16 @@ Carousel wheel and main menu background
       <carousel name="systemcarousel">
         <zIndex>39</zIndex>	      
         <type>horizontal</type>
-        <pos>0.0 -0.34</pos>
+        <pos>0.0 -0.39</pos>
         <size>1 1</size>
         <logoScale>1.08</logoScale>
-        <logoSize>0.34 0.34</logoSize>
+        <logoSize>0.2 0.2</logoSize>
         <color>00000000</color>
-        <maxLogoCount>3</maxLogoCount>
+        <maxLogoCount>5</maxLogoCount>
 		<logoAlignment>bottom</logoAlignment>        
       </carousel>                 
       <text name="systemInfo">     
-         <pos>0.0 0.615</pos>
+         <pos>0.0 0.6</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>ff9000</color>
          <fontPath>./_inc/fonts/HorsDoeuvresTheGarter.otf</fontPath>
